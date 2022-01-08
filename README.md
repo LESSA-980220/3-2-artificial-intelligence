@@ -1,2 +1,2 @@
-# 3-2-artificial-intelligence
-semester 3-2 artificial intelligence
+# Artificial Intelligence
+semester 3-2 Artificial Intelligence
